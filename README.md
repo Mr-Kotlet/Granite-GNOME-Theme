@@ -22,10 +22,10 @@ This is a personal project and is not intended to copy the Marble theme.
     **Debian**  
     `sudo apt install gnome-extensions`
 
-    **Fedora** 
+    **Fedora**  
     `sudo dnf install gnome-extensions`
 
-    **Arch**
+    **Arch**  
     `yay -S extension-manager`
 
 2. **Install User Themes extension**
