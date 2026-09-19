@@ -1862,7 +1862,7 @@ StEntry:focus {
 
 #overviewGroup, /* overview background */
 .workspace-animation { /* spacing between worspaces (ctrl+alt+arr_left/right / 3 fingers gesture) */
-	background-color: rgb(6, 24, 30);
+	background-color: rgba(21, 23, 25, 1);
 }
 
 /* workspaces */

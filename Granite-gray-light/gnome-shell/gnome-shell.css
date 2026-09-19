@@ -1693,7 +1693,7 @@ StEntry:focus {
 
 /* "No Notifications" text */
 .message-list-placeholder {
-	color: rgba(242, 242, 242, 0.38);
+	color: rgba(13, 13, 13, 0.38);
 	font-weight: 700;
 }
 
@@ -1745,19 +1745,19 @@ StEntry:focus {
 /* text / header in message */
 .message .message-body,
 .message-title {
-	color: rgba(242, 242, 242, 1);
+	color: rgba(13, 13, 13, 1);
 }
 
 /* message time stamp */
 .message .message-secondary-bin > .event-time {
-	color: rgba(242, 242, 242, 0.67);
+	color: rgba(13, 13, 13, 0.67);
 }
 
 /* message title on 46+ */
 .message .message-header .message-source-icon,
 .message .message-header .message-header-content .message-source-title,
 .message .message-header .message-header-content .event-time {
-	color: rgba(242, 242, 242, 0.67);
+	color: rgba(13, 13, 13, 0.67);
 	padding-bottom: 0;
 }
 
@@ -1770,7 +1770,7 @@ StEntry:focus {
 .message-close-button,
 .message-expand-button,
 .message-collapse-button { /* collapse group of messages button */
-	color: rgba(242, 242, 242, 1);
+	color: rgba(13, 13, 13, 1);
 	background-color: rgba(217, 217, 217, 0.08);
 	box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.03);
 	transition-duration: 100ms;
@@ -1794,7 +1794,7 @@ StEntry:focus {
 .message-close-button:active,
 .message-expand-button:active,
 .message-collapse-button:active {
-	color: rgba(242, 242, 242, 0.67);
+	color: rgba(13, 13, 13, 0.67);
 }
 
 /* message buttons */
@@ -1813,17 +1813,17 @@ StEntry:focus {
 	/* currently disabled because of 46 */
 	/* padding: 0 14px; */
 	/* margin: 20px 2px; */
-	color: rgba(242, 242, 242, 1);
+	color: rgba(13, 13, 13, 1);
 	transition-duration: 100ms;
 }
 
 .message-media-control:hover {
 	background-color: rgba(217, 217, 217, 0.08);
 	box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.03);
-	color: rgba(242, 242, 242, 1);
+	color: rgba(13, 13, 13, 1);
 }
 
-.message-media-control:insensitive { color: rgba(242, 242, 242, 0.38); }
+.message-media-control:insensitive { color: rgba(13, 13, 13, 0.38); }
 
 /* fix margin for last button */
 /* currently disabled because of 46 */
@@ -1844,7 +1844,7 @@ StEntry:focus {
 /* when there is no artwork */
 .media-message-cover-icon.fallback,
 .media-message .message-icon.message-themed-icon { /* 46+ */
-	color: rgba(242, 242, 242, 1);
+	color: rgba(13, 13, 13, 1);
 	background-color: rgba(217, 217, 217, 0.13);
 	border: 1px solid rgba(255, 255, 255, 0.03);
 	border-radius: 15px;
@@ -1862,7 +1862,7 @@ StEntry:focus {
 
 #overviewGroup, /* overview background */
 .workspace-animation { /* spacing between worspaces (ctrl+alt+arr_left/right / 3 fingers gesture) */
-	background-color: rgba(231, 231, 231, 1);
+	background-color: rgba(232, 232, 232, 1);
 }
 
 /* workspaces */
