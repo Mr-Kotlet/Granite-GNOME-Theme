@@ -8,12 +8,12 @@ This is a personal project and is not intended to copy the Marble theme.
 
 # Screenshots
 
-![dark-gray-blur](source/dark-gray-blur.jpeg)
-![dark-purple-blur](source/dark-purple-blur.jpeg)
-![light-yellow-blur](source/light-yellow-blur.jpeg)
+![dark-gray-blur](source/screenshots/dark-gray-blur.jpeg)
+![dark-purple-blur](source/screenshots/dark-purple-blur.jpeg)
+![light-yellow-blur](source/screenshots/light-yellow-blur.jpeg)
 ---
-![light-yellow](source/light-yellow.jpeg)
-![light-blue](source/light-blue.jpeg)
+![light-yellow](source/screenshots/light-yellow.jpeg)
+![light-blue](source/screenshots/light-blue.jpeg)
 
 # Installation guide
 
