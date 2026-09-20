@@ -12,6 +12,7 @@ This is a personal project and is not intended to copy the Marble theme.
 ![dark-purple-blur](source/screenshots/dark-purple-blur.jpeg)
 ![light-yellow-blur](source/screenshots/light-yellow-blur.jpeg)
 ---
+![light-yellow](source/screenshots/Dark-Light-QS%20.png)
 ![light-yellow](source/screenshots/light-yellow.jpeg)
 ![light-blue](source/screenshots/light-blue.jpeg)
 
