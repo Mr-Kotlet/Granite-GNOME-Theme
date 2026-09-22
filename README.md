@@ -1,5 +1,5 @@
-# Granite-GTK-Theme
-A visually pleasant and versatile GTK theme based on [Marble Shell](https://www.gnome-look.org/p/1977647).
+# Granite GNOME Theme
+A visually pleasant and versatile GNOME theme based on [Marble Shell](https://www.gnome-look.org/p/1977647).
 This is a personal project and is not intended to copy the Marble theme.
 
 ## Extensions needed
@@ -12,7 +12,7 @@ This is a personal project and is not intended to copy the Marble theme.
 ![dark-purple-blur](source/screenshots/dark-purple-blur.jpeg)
 ![light-yellow-blur](source/screenshots/light-yellow-blur.jpeg)
 ---
-![light-yellow](source/screenshots/Dark-Light-QSs.png)
+![light-yellow](source/screenshots/Dark-Light-QS.png)
 ![light-yellow](source/screenshots/light-yellow.jpeg)
 ![light-blue](source/screenshots/light-blue.jpeg)
 
